@@ -1,5 +1,8 @@
 # Changelog
 
+# 6.0
+* Updated to MCreator 2024.4
+
 # 5.10
 * [#48] Add a new parameter to write lines at the end of TXT files
   * Note: Existing workspaces will get a build error due to the missing parameter. Previous behaviour was FALSE.
