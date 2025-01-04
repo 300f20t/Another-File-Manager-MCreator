@@ -1,1 +1,1 @@
-Minecraft.getInstance().gameDirectory
+net.fabricmc.loader.api.FabricLoader.getInstance().getGameDir()
