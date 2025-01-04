@@ -1,1 +1,1 @@
-net.fabricmc.loader.api.FabricLoader.getInstance().getGameDir()
+net.fabricmc.loader.api.FabricLoader.getInstance().getGameDir().toString()
