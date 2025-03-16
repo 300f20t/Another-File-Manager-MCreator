@@ -1,6 +1,6 @@
 {
   "id": "another-file-manager",
-  "supportedversions": [2024004],
+  "supportedversions": [2024004, 2025001],
   "info": {
     "name": "Another File Manager",
     "description": "Create and read your files",
